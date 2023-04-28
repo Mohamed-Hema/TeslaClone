@@ -1,5 +1,5 @@
 # Tesla Clone Project
-🚩 This Repo is to supposed to represent a clone for Tesla Projects 🚩
+🚩 This Repo is to supposed to represent a clone for Tesla Website 🚩
 
 
 
